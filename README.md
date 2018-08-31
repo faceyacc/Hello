@@ -4,8 +4,13 @@
 `TODO://` Greets user with name  
 
 
-<img src="http://recordit.co/CfPv73Ripr" width=200><br>
 
+
+
+
+
+
+![](hola.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
