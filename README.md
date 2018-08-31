@@ -4,7 +4,7 @@
 `TODO://` Greets user with name  
 
 
-<img src="http://recordit.co/CfPv73Ripr"width=200><br>
+http://recordit.co/CfPv73Ripr
 
 
 ### Required User Stories
